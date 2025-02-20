@@ -6,7 +6,6 @@ I'm going to start actually using my GitHub more especially as a way to share cl
 - 🌱 I’m currently learning Unity.
 - 💬 Ask me about art, design, game design, and webtoons!
 - 📫 Reach me via email: maisoon.rahman@case.edu
-- 😄 Pronouns: she/her
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maisoonrahman&show_icons=true&theme=synthwave)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maisoonrahman&layout=compact&theme=synthwave)
