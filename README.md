@@ -1,11 +1,13 @@
 ### Hi there 👋
-I'm Maisoon (pronounced My-soon), and I am a senior in college. This is my personal blog/way to keep me accountable on my journey to become a designer and front-end developer.
-I'm going to start actually using my GitHub more especially as a way to share class notes and side projects! 
+I'm Maisoon (pronounced My-soon), a senior in college on a mission to become a designer and front-end developer. This GitHub is my personal blog, creative playground, and accountability tracker for all the things I’m learning and building!
 
-- 🔭 I’m currently working on a personal portfolio website.
-- 🌱 I’m currently learning Unity.
-- 💬 Ask me about art, design, game design, and webtoons!
-- 📫 Reach me via email: maisoon.rahman@case.edu
+✨ What I'm up to:
+- 🔭 Currently crafting my personal portfolio website
+- 🌱 Learning Unity (send help... or tutorials)
+- 💬 Always down to chat about art, design, game dev, and webtoons!
+- 📫 Reach me @ maisoon.rahman@case.edu
+
+Expect class notes, side projects, and lots of experiments—because why not? 🚀
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maisoonrahman&show_icons=true&theme=synthwave)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maisoonrahman&layout=compact&theme=synthwave)
