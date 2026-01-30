@@ -9,3 +9,11 @@ I'm Maisoon (pronounced My-soon), a ~recent college grad~ blob on a mission to b
 
 Expect notes, side projects, and lots of experiments—because why not? 🚀
 
+<a href="https://github.com/Pranesh-2005/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=maisoonrahman&show_icons=true&theme=dracula&border_radius=24" />
+</a>
+<a href="https://github.com/Pranesh-2005/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=maisoonrahman&layout=compact&langs_count=8&card_width=320&theme=dracula&border_radius=24" />
+</a>
+
+
